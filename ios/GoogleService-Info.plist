@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>655901505649-l90sp63ion3p4bf2jfr2sv6rcp5ai3p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.655901505649-l90sp63ion3p4bf2jfr2sv6rcp5ai3p0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzEwJWLlg0w_qJWYql_oJqFGDU9z-0zws</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655901505649</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.karaca</string>
+	<key>PROJECT_ID</key>
+	<string>karaca-bea01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>karaca-bea01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655901505649:ios:f97aaa6e301a85b50683d0</string>
+</dict>
+</plist>
